@@ -1,0 +1,8 @@
+Socio-help App
+
+Screen1- Screen for loging in to the app
+Screen2- A screen where they can select the service they want to provide
+Screen3- Selecting their location,name,their convenient area in which they can operate
+Screen4- Showing the areas and the work needed to be done their and the time needed.
+Screen5- An appreciation screen for doing the work and a  button to submit the work done by them.
+Screen6- "We value you contribution to our society
